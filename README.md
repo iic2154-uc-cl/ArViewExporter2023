@@ -1,6 +1,6 @@
-# View Exporter Revit 2022
+# View Exporter Revit 2023
 
-Plugin Revit 2022 para exportar vistas hacia la plataforma Arencox.
+Plugin Revit 2023 para exportar vistas hacia la plataforma Arencox.
 
 ## Empezando
 
@@ -8,7 +8,7 @@ Descarga el último release del proyecto, específicamente el archivo .exe. Haz 
 
 ### Prerrequisitos
 
-- Revit 2022
+- Revit 2023
 
 ### Instalación
 
