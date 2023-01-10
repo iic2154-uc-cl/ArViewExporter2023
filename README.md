@@ -12,7 +12,11 @@ Descarga el último release del proyecto, específicamente el archivo .exe. Haz 
 
 ### Instalación
 
-Doble click en el archivo .exe.
+Navegar a la sección de Releases, descargar la versión deseada y hacer doble click en el archivo .exe.
+
+### Desinstalación
+
+Descargar archivo Uninstall en el repositorio y hacer doble click.
 
 ## Autores
 
